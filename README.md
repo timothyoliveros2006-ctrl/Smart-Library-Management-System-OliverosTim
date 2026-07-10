@@ -14,7 +14,7 @@ Project Modules
 - Inventory Management
 - Reports
 Development Team
-Student Name: Timothee Oliveros
+Student Name: Timothee B. Oliveros
 Course: BSIT
 Section: 2C
 
