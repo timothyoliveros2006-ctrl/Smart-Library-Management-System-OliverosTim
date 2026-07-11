@@ -27,3 +27,11 @@ Features
 - Search Member
 
 _Last updated during GitHub Actions laboratory._
+
+
+Contributor Update
+
+Contributor Name: Jhan Raven M. Tobias
+
+Feature Added:
+- Digital Library Dashboard
